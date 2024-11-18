@@ -35,7 +35,7 @@ kelly -b <bankroll> (-pw <win probability> | -ow <win odds>) (-pb <implied proba
 - `-pw`: Probability of winning (0-1)
 - `-ow`: Odds of winning (alternative to -pw)
 - `-pb`: Implied probability from the bet (0-1)
-- `-ob`: Implied odds from the bet
+- `-ob`: Implied odds from the bet (not the payoff odds)
 - `-bb`: Proportion you end with on win (>1)
 - `-gb`: Proportion gained on win (>0)
 
